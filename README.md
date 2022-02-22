@@ -25,5 +25,3 @@
 
  you can replace the above endpoints with the deployed link like this :  
  https://recipes-israa-app.herokuapp.com/favRecipes/1
-
-
